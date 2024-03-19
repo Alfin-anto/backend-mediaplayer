@@ -1,0 +1,80 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "kali",
+      "imgeUrl": "https://th.bing.com/th/id/OIP.syIqAWqz2YLV8hRycVQ8-AAAAA?rs=1&pid=ImgDetMain",
+      "embedLink": "https://www.youtube.com/embed/xEuRPDECjnk"
+    },
+    {
+      "id": "5",
+      "caption": "vettam",
+      "imgeUrl": "https://i.ytimg.com/vi/T0hihSfMXg0/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/Rz-hqTc1KXk"
+    },
+    {
+      "id": "lalettan",
+      "caption": "Roohe Video Song",
+      "imgeUrl": "https://th.bing.com/th/id/OIP.BAcmUccZ_5u5_jfFGvSbagHaHv?rs=1&pid=ImgDetMain",
+      "embedLink": "https://www.youtube.com/embed/1rEqbn4hY6w"
+    }
+  ],
+  "history": [
+    {
+      "caption": "kali",
+      "url": "https://www.youtube.com/embed/xEuRPDECjnk",
+      "timeStamp": "12/03/2024, 12:36:50",
+      "id": 4
+    },
+    {
+      "caption": "mayanadi",
+      "url": "https://www.youtube.com/embed/D62rYLhBVVE",
+      "timeStamp": "13/03/2024, 12:26:35",
+      "id": 5
+    },
+    {
+      "caption": "vettam",
+      "url": "https://www.youtube.com/embed/Rz-hqTc1KXk",
+      "timeStamp": "13/03/2024, 12:36:58",
+      "id": 6
+    },
+    {
+      "caption": "mayanadi",
+      "url": "https://www.youtube.com/embed/D62rYLhBVVE",
+      "timeStamp": "14/03/2024, 12:29:20",
+      "id": 7
+    },
+    {
+      "caption": "kali",
+      "url": "https://www.youtube.com/embed/xEuRPDECjnk",
+      "timeStamp": "15/03/2024, 11:54:43",
+      "id": 8
+    },
+    {
+      "caption": "kali",
+      "url": "https://www.youtube.com/embed/xEuRPDECjnk",
+      "timeStamp": "15/03/2024, 12:06:01",
+      "id": 9
+    }
+  ],
+  "Category": [
+    {
+      "Category": "malayalam",
+      "allVideos": [
+        {
+          "id": "lalettan",
+          "caption": "Roohe Video Song",
+          "imgeUrl": "https://th.bing.com/th/id/OIP.BAcmUccZ_5u5_jfFGvSbagHaHv?rs=1&pid=ImgDetMain",
+          "embedLink": "https://www.youtube.com/embed/1rEqbn4hY6w"
+        },
+        {
+          "id": "5",
+          "caption": "vettam",
+          "imgeUrl": "https://i.ytimg.com/vi/T0hihSfMXg0/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/Rz-hqTc1KXk"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
